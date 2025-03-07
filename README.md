@@ -1,6 +1,8 @@
 # Weather-Forecast-Application
 This is a simple weather forecast application built using HTML, Tailwind CSS, and JavaScript. It fetches weather data from the OpenWeatherMap API.
 
+Here is the github link to the application: https://github.com/Kush-37/Weather-Forecast-Application/tree/main
+
 ## Features
 
 -   Search weather by city name.
